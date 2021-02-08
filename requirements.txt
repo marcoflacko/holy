@@ -8,11 +8,11 @@ chardet==3.0.4
 colorama==0.4.4
 idna==2.10
 multidict==4.7.6
-mysql-connector-python==8.0.23
+
 protobuf==3.14.0
 PyMySQL==1.0.2
 pyodbc==4.0.30
-pyTelegramBotAPI==3.7.6
+
 pytz==2020.1
 requests==2.24.0
 selenium==3.141.0
